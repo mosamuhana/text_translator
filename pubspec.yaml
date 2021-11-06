@@ -1,7 +1,7 @@
 name: text_translator
 description: A new Flutter package project.
-version: 0.0.1
-homepage:
+version: 0.1.0
+homepage: https://github.com/mosamuhana/text_translator
 
 
 environment:
