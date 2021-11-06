@@ -1,11 +1,3 @@
-# text_translator package
-
-Translate text between any language pair 
-using google translator without using ApiKey
-
-## Usage
-
-```dart
 import 'package:text_translator/text_translator.dart';
 
 void main() async {
@@ -29,4 +21,3 @@ void main() async {
   translation = await Translator().translate(source, from: 'tr', to: 'ar');
   print('Source: $source\nTranslated: $translation');
 }
-```
